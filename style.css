@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #14181f;
+  --color-panel: #1f252e;
+  --color-line: #323a47;
+  --color-fog: #e8eaed;
+  --color-ct: #6b8fc7;
+  --color-t: #e0a63a;
+  --font-display: "Rajdhani", sans-serif;
+  --font-body: "Barlow", sans-serif;
+}
